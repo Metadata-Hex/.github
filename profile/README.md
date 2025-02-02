@@ -28,6 +28,3 @@ Interested in helping? Contributions, feedback, and testing are welcome!
 ## **License**
 📝 **MIT License** – Free to use and modify.  
 
----
-
-This **concise README** keeps it high-level while signaling that the project is **actively evolving**. Let me know if you want further refinements! 🚀
