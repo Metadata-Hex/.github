@@ -1,6 +1,6 @@
-# **Metadata Hex** (WIP)
+.metadata_hex_core# **Metadata Hex (Heap EXtraction)** 
 
-🚧 **Work in Progress** – This module is under active development. 🚀
+🚧 *This module is under active development. 🚀
 
 Metadata Hex is a **Drupal module** for **automated metadata extraction and processing**. It enables seamless integration of file-based metadata into Drupal nodes, supporting structured ingestion, field mapping, and batch processing.
 
@@ -13,16 +13,16 @@ Metadata Hex is a **Drupal module** for **automated metadata extraction and proc
 
 ## **Current Status**
 ✅ Core extraction & processing functionality implemented.  
-🔧 Additional features and optimizations in progress.  
+✅ Additional features and optimizations in progress.  
 
 ## **Next Steps**
 - 🏗 Improve UI/UX for metadata mapping.
-- 📂 Expand file format support beyond PDFs.
+- 📂 Expand file format support beyond PDFs & markdown.
 - 📝 Enhance batch processing capabilities.
 
 ## **Contributing**
 Interested in helping? Contributions, feedback, and testing are welcome!  
-- Report issues in the [issue tracker](https://github.com/your-repo/issues).  
+- Report issues in the [issue tracker](https://github.com/Metadata-Hex/metadata_hex_core/issues).  
 - PRs and suggestions for improvements are encouraged.  
 
 ## **License**
