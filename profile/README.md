@@ -1,4 +1,4 @@
-.metadata_hex_core# **Metadata Hex (Heap EXtraction)** 
+# **Metadata Hex (Heap EXtraction)** 
 
 🚧 *This module is under active development. 🚀
 
@@ -25,6 +25,7 @@ Interested in helping? Contributions, feedback, and testing are welcome!
 - Report issues in the [issue tracker](https://github.com/Metadata-Hex/metadata_hex_core/issues).  
 - PRs and suggestions for improvements are encouraged.
 - [Buy me a coffee](https://buymeacoffee.com/davidbelich)
+- More information on [Metadata Hex's Drupal.org project page](https://www.drupal.org/project/metadata_hex)
 
 ## **License**
 📝 **MIT License** – Free to use and modify.  
