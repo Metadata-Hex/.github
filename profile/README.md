@@ -23,7 +23,8 @@ Metadata Hex is a **Drupal module** for **automated metadata extraction and proc
 ## **Contributing**
 Interested in helping? Contributions, feedback, and testing are welcome!  
 - Report issues in the [issue tracker](https://github.com/Metadata-Hex/metadata_hex_core/issues).  
-- PRs and suggestions for improvements are encouraged.  
+- PRs and suggestions for improvements are encouraged.
+- [Buy me a coffee](https://buymeacoffee.com/davidbelich)
 
 ## **License**
 📝 **MIT License** – Free to use and modify.  
